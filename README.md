@@ -1,25 +1,57 @@
-# Hi 👋, I'm Kaif
+# Hi 👋, I'm Kaif Khan
 
-Frontend Developer 🚀
+### 💻 Full Stack Developer | React Developer | Node.js Learner
 
-Currently learning Backend Development to become a Full Stack Developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Node.js+Learner;Open+Source+Enthusiast" />
+</p>
 
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+---
 
-### Currently Learning
+## 🚀 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kaifkhann&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkhann&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=kaifkhann&theme=tokyonight)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Node.js+Learner;Open+Source+Enthusiast)
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![Visitors](https://komarev.com/ghpvc/?username=kaifkhann&style=for-the-badge)
+---
 
-Thanks for visiting my profile! ❤️
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaifkhann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkhann&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kaifkhann&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaifkhann&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaifkhann&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌐 Portfolio (Coming Soon)
