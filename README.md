@@ -1,57 +1,57 @@
 # Hi 👋, I'm Kaif Khan
 
-### 💻 Full Stack Developer | React Developer | Node.js Learner
+### 💻 Frontend Developer | Learning Backend
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Node.js+Learner;Open+Source+Enthusiast" />
-</p>
+I'm passionate about building modern and responsive web applications.
+
+🌱 Currently Learning **Node.js, Express.js & MongoDB**
+
+💼 Goal: Become a Full Stack Developer
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode" />
-</p>
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend (Learning)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaifkhann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkhann&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaifkhann&theme=tokyonight&hide_border=true" />
-</p>
+- Backend Development
+- REST APIs
+- MongoDB
+- Authentication
+- Full Stack Projects
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaifkhann&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaifkhann&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+- ✅ Master Backend Development
+- 🚀 Build Full Stack E-Commerce Website
+- 💼 Create an Awesome Portfolio
+- 🌟 Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Portfolio (Coming Soon)
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: Coming Soon
+- 🌐 Portfolio: Coming Soon
+
+---
+
+![](https://komarev.com/ghpvc/?username=kaifkhann&style=for-the-badge)
