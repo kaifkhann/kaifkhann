@@ -16,7 +16,7 @@ Currently learning Backend Development to become a Full Stack Developer.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaifkhann&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkhannE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkhann&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kaifkhann&theme=tokyonight)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Node.js+Learner;Open+Source+Enthusiast)
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
